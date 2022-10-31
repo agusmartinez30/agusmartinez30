@@ -1,4 +1,4 @@
-- 👋 Hola, I’m @agusmartinez30
+- 👋 Hola, soy @agusmartinez30
 - 👀 Desarrollador Frontend con ReactJS
 
 <!---
