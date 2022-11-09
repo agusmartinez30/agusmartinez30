@@ -1,5 +1,5 @@
-- 👋 Hola, soy @agusmartinez30
-- 👀 Desarrollador Frontend con ReactJS
+- 👋 Bienvenidos!
+- 👨🏻‍💻 Soy desarrallador frontend con ReactJS
 
 <!---
 agusmartinez30/agusmartinez30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
