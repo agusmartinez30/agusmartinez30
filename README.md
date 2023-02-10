@@ -4,8 +4,8 @@
 # Desarrollador Front-end / React.js
 
 * 🤓 Estoy aprendiendo Node.js / Express
-* 🖥️ Puedes ver todos mi proyectos aqui: 
-* 📧 Contactame: 
+* 🖥️ Puedes ver todos mi proyectos aqui: [portfolio](agusdev.netlify.app)
+* 📧 Contactame: agusmartinezy30@gmail.com
 
 
 ## Stack tecnologico
