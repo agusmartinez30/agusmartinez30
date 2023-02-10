@@ -1,8 +1,11 @@
 
-# Bienvenido!
+# Bienvenido! 👋
 
-Soy Agustin Martinez, y soy desarrollador front-end con React.js. 
-Puedes ver todos mis proyectos aqui 
+# Desarrollador Front-end / React.js
+
+* 🤓 Estoy aprendiendo Node.js / Express
+* 🖥️ Puedes ver todos mi proyectos aqui: 
+* 📧 Contactame: 
 
 
 ## Stack tecnologico
