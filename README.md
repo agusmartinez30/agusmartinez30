@@ -4,7 +4,7 @@
 # Desarrollador Front-end / React.js
 
 * 🤓 Estoy aprendiendo Node.js / Express
-* 🖥️ Puedes ver todos mi proyectos aqui: [portfolio](agustinmartinez.vercel.app)
+* 🖥️ Puedes ver todos mi proyectos aqui: [portfolio](https://agustinmartinez.vercel.app/)
 * 📧 Contactame: agusmartinezy30@gmail.com
 
 
